@@ -1,0 +1,15 @@
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedHost.exe.config
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedHost.exe
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedHost.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedLib.dll
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedLib.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedLib.dll.config
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.csprojAssemblyReference.cache
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.csproj.CoreCompileInputs.cache
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.csproj.CopyComplete
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.exe
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedHost.exe.manifest
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\bin\Debug\WCFGettingStartedHost.application
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.exe.manifest
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedHost\obj\Debug\WCFGettingStartedHost.application

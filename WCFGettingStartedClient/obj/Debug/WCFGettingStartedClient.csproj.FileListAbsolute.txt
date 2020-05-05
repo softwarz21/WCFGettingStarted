@@ -1,0 +1,7 @@
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\bin\Debug\WCFGettingStartedClient.exe.config
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\bin\Debug\WCFGettingStartedClient.exe
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\bin\Debug\WCFGettingStartedClient.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\obj\Debug\WCFGettingStartedClient.csproj.CoreCompileInputs.cache
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\obj\Debug\WCFGettingStartedClient.exe
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\obj\Debug\WCFGettingStartedClient.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedClient\obj\Debug\WCFGettingStartedClient.csprojAssemblyReference.cache

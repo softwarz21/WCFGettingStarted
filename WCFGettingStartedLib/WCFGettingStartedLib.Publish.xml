@@ -1,0 +1,22 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\softwarz21\Documents\WCFdev\">
+    <file relUrl="WCFGettingStartedLib.csproj.user" publishTime="04/30/2020 19:56:37" />
+    <file relUrl="ICalculator.cs" publishTime="04/30/2020 15:56:36" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="04/30/2020 15:52:40" />
+    <file relUrl="App.config" publishTime="04/30/2020 18:37:03" />
+    <file relUrl="Web.config" publishTime="04/30/2020 18:37:03" />
+    <file relUrl="bin/WCFGettingStartedLib.dll.config" publishTime="04/30/2020 18:37:03" />
+    <file relUrl="bin/WCFGettingStartedLib.dll" publishTime="04/30/2020 19:56:40" />
+    <file relUrl="bin/WCFGettingStartedLib.pdb" publishTime="04/30/2020 19:56:40" />
+    <file relUrl="WCFGettingStartedLib.csproj" publishTime="04/30/2020 16:11:10" />
+    <file relUrl="CalculatorService .cs" publishTime="04/30/2020 15:58:58" />
+    <file relUrl="GettingStartedLib.CalculatorService.svc" publishTime="04/30/2020 19:56:41" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\softwarz21\Documents\WCF\">
+    <file relUrl="bin/WCFGettingStartedLib.dll" publishTime="04/30/2020 16:50:29" />
+    <file relUrl="bin/WCFGettingStartedLib.pdb" publishTime="04/30/2020 16:50:29" />
+    <file relUrl="bin/WCFGettingStartedLib.dll.config" publishTime="04/30/2020 18:37:03" />
+    <file relUrl="Web.config" publishTime="04/30/2020 18:37:03" />
+    <file relUrl="GettingStartedLib.CalculatorService.svc" publishTime="04/30/2020 19:35:49" />
+  </publishTarget>
+</publishData>

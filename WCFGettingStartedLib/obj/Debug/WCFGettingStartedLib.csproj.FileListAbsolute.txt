@@ -1,0 +1,7 @@
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\bin\Debug\WCFGettingStartedLib.dll.config
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\bin\Debug\WCFGettingStartedLib.dll
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\bin\Debug\WCFGettingStartedLib.pdb
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\obj\Debug\WCFGettingStartedLib.csprojAssemblyReference.cache
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\obj\Debug\WCFGettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\obj\Debug\WCFGettingStartedLib.dll
+C:\Users\softwarz21\Source\Repos\WCFGettingStarted\WCFGettingStartedLib\obj\Debug\WCFGettingStartedLib.pdb
